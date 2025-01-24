@@ -1,0 +1,4 @@
+Time = 0, clk = 0, reset = 1, instruction = 00000000, result = 00000000
+Time = 10, clk = 0, reset = 0, instruction = 00010010, result = 00000011  // ADD
+Time = 20, clk = 0, reset = 0, instruction = 00110110, result = 11111101  // SUB
+Time = 30, clk = 0, reset = 0, instruction = 10000011, result = 00001000  // LOAD
